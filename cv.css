@@ -1,6 +1,26 @@
+.main-container {
+	margin-top: 60px;
+}
 .nav li {
 	margin: 0px 10px 0px 10px;
 }
 .navbar-brand {
 	margin: 0px 30px 0px 45px;
+}
+.centered-front-image {
+	height: 450px;
+	width: auto;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h {
+	display: block;
+    text-align: center;
+}
+
+.thumbnail a img {
+	height: 350px;
+	width: auto;
 }
