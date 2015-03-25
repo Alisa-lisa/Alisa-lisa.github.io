@@ -24,6 +24,10 @@ body {
   max-width: 150px;
   height: auto;
 }
+@media (max-width: 600px){
+  .my-img{
+    display: none;
+}}
 .row-header{
   display: flex;
   flex-direction: row;
