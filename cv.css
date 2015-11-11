@@ -74,6 +74,15 @@ ul{
 ul .list-inline {
   font-size: 16px;
 }
+#progress-skills {
+  padding-left: 35px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.8;
+  font-weight: 300;
+  color: rgb(53, 53, 53);
+  list-style: circle;  
+}
 #list-skills{
   padding-left: 35px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
